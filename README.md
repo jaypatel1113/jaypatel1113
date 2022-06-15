@@ -2,6 +2,7 @@
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 <!--<img align="right" alt="coding_img" width="200" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">-->
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypatel3382&label=Profile%20views&color=0e75b6&style=flat" alt="jaypatel3382" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jaypatel_1510" target="blank"><img src="https://img.shields.io/twitter/follow/jaypatel_1510?logo=twitter&style=for-the-badge" alt="jaypatel_1510" /></a> </p>
