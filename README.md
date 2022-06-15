@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/jaypatel_1510" target="blank"><img src="https://img.shields.io/twitter/follow/jaypatel_1510?logo=twitter&style=for-the-badge" alt="jaypatel_1510" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning: **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [Github](github.com/jaypatel3382)
+- 👨‍💻 All of my projects are available at: [Github](github.com/jaypatel3382)
 
-- 💬 Ask me about **HTML, CSS, JS, C, JAVA**
+- 💬 Ask me about: **HTML, CSS, JS, C, JAVA**
 
-- 📫 How to reach me **jay64441860@gmail.com**
+- 📫 Reach me: **jay64441860@gmail.com**
 
 - 📄 Know about my experiences: [Resume](https://jaypatel3382.github.io/responsive-resume/)
 
-- ⚡ Fun fact **I think I'm still Childish 😆**
+- ⚡ Fun fact: **I think I'm still Childish 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
