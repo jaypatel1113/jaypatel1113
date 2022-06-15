@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/jay-patel-8776691b8" target="_blank">Jay Patel</a></h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
-<img align="right" alt="coding_img" width="200" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
+<!--<img align="right" alt="coding_img" width="200" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypatel3382&label=Profile%20views&color=0e75b6&style=flat" alt="jaypatel3382" /> </p>
 
