@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jay-patel-8776691b8" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIN-%230A66C2?style=for-the-badge&logo=linkedin" alt="jay-patel-8776691b8" /></a>
 <a href="mailto:jay64441860@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="wa.me/+919328473489" target="blank"><img align="center" src="https://img.shields.io/badge/-whatsapp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
+<a href="https://wa.me/+919328473489" target="blank"><img align="center" src="https://img.shields.io/badge/-whatsapp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
 <a href="https://facebook.com/jay.patel.112" target="blank"><img align="center" src="https://img.shields.io/badge/-facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="jay.patel.112" /></a>
 <a href="https://instagram.com/__j.a.y._.p.a.t.e.l__" target="blank"><img align="center" src="https://img.shields.io/badge/-instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="__j.a.y._.p.a.t.e.l__" /></a>
 <a href="https://twitter.com/jaypatel_1510" target="blank"><img align="center" src="https://img.shields.io/badge/-twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="jaypatel_1510" /></a>
