@@ -1,6 +1,9 @@
 <h1 align="center">Hey! I'm <a href="https://linkedin.com/in/jay-patel-8776691b8" target="_blank">Jay Patel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<h3 align="center">A Passionate Full Stack Web Developer</h3>
 <!--<img align="right" alt="coding_img" width="200" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">-->
+
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&duration=4000&pause=1000&color=2D8AFFFF&center=true&vCenter=true&width=435&lines=Web+Developer;MERN+Stack+Developer;Guys-who-loves-Tea.js;%3CButLovesToCodeMore+%2F%3E" alt="Typing SVG" /></a>
+</h3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypatel3382&label=Profile%20views&color=EF2D5E&style=for-the-badge" alt="jaypatel3382" /> </p>
 
