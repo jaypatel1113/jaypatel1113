@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm <a href="https://linkedin.com/in/jay-patel-8776691b8" target="_blank">Jay Patel</a></h1>
+<h1 align="center">Hey! I'm <a href="https://linkedin.com/in/jay-patel-8776691b8" target="_blank">Jay Patel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 <!--<img align="right" alt="coding_img" width="200" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">-->
 
