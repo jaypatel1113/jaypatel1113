@@ -17,7 +17,7 @@
 
 - 📫 Reach me: **jay64441860@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://jaypatel3382.github.io/responsive-resume/)
+- 📄 Know about my experiences: [Portfolio](https://patel-jay.netlify.app)
 
 - ⚡ Fun fact:**I'm still Childish 😆**
 
