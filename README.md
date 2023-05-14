@@ -13,7 +13,7 @@
 
 <!--- 👨‍💻 All of my projects are available at: **<a href="https://github.com/jaypatel3382" target="_blank">Github</a>**-->
 
-- 💬 Ask me about: **HTML, CSS, JS, C, JAVA**
+- 💬 Ask me about: **HTML, CSS, JS, ,MONGODB, EXPRESSJS, REACTJS, NODEJS, C, JAVA**
 
 - 📫 Reach me: **jay64441860@gmail.com**
 
