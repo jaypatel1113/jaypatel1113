@@ -163,7 +163,7 @@
     <a href="https://twitter.com/jaypatel_1510/"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
 </p>
 <hr/>
-<p align="center"><b>Though you have came this far, Checkout my Repos ⬇️ & give it a Star ⭐ or Fork it</b></p>
+<p align="center"><b>Though you have came this far, Checkout my Repos ⬇️ & give it a Star ⭐ or Fork it 🎗️</b></p>
 
 <!-- [Jay_Patel](https://github.com/jaypatel31/jaypatel31/blob/master/bottom_header.svg) -->
 <br>
