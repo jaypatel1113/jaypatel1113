@@ -1,7 +1,8 @@
 <h1 align="center">Hey , I'm 
     <a href="https://patel-jay.netlify.app" target="_blank" style="color:#EF2D5E">
-        Jay Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+        Jay Patel 
     </a>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <p align="center">
   	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=EF2D5E&size=24&center=true&vCenter=true&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;%3CLovesToCodeMore+%2F%3E;Ready+For+The+Challenges"></a>
