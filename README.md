@@ -1,7 +1,5 @@
-<h1 align="center">Hey , I'm 
-    <a href="https://patel-jay.netlify.app" target="_blank" style="color:#EF2D5E">
-        Jay Patel 
-    </a>
+<h1 align="center">
+    Hey , I'm Jay Patel 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <p align="center">
@@ -169,4 +167,3 @@
 
 <!-- [Jay_Patel](https://github.com/jaypatel31/jaypatel31/blob/master/bottom_header.svg) -->
 <br>
- 
