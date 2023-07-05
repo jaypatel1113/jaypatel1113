@@ -147,7 +147,7 @@
 	<summary><b>⚡ Recent GitHub Activity</b></summary>
 	<br/>
 	<a href="https://github.com/jaypatel3382">
-		<img alt="Jay's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jaypatel3382&custom_title=Jay%20Patel%27s%20Contribution%20Graph&theme=xcode&bg_color=282a36&line=ff6e96&color=fff&point=79dafa&radius=10" />
+		<img alt="Jay's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jaypatel3382&custom_title=Jay%20Patel%27s%20Contribution%20Graph&theme=xcode&bg_color=282a36&line=ff6e96&color=fff&point=79dafa&radius=10" />
 	</a>
 	<br/>
 </details>
