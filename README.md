@@ -66,10 +66,10 @@
 	<summary><b>👉 Frontend Development</b></summary>
 	<br/>
 	<p align="left">
-		<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-		<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="html" />
-		<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" />
-		<img src="https://img.shields.io/badge/Json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />
+		<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html" />
+		<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css" />
+		<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript" />
+		<img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white" alt="json" />
 	</p>
 </details>
 <br/>
@@ -77,8 +77,8 @@
 	<summary><b>👉 Programming languages</b></summary>
 	<br/>
 	<p align="left"> 
-		<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-		<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+		<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" alt="C" />
+		<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="php" />
 		<img src="https://img.shields.io/badge/Java-56347C?style=for-the-badge&logo=coffeescript&logoColor=white" alt="java"/>
 		<img src="https://img.shields.io/badge/Data_Structures_&_Algorithm-009ad3?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="dsa"/>
 	</p>
@@ -88,17 +88,18 @@
 	<summary><b>👉 Frameworks</b></summary>
 	<br/>
 	<p align="left"> 
-		<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react" />
-		<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
-		<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="angularjs" />
-		<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss" />
-		<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
-		<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+		<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react" />
+		<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
+		<img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="markdown" />
+		<img src="https://img.shields.io/badge/AngularJS-E23237.svg?style=for-the-badge&logo=AngularJS&logoColor=white" alt="angularjs" />
+		<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="tailwindcss" />
+		<img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="sass" />
+		<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap" />
 		<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=materialdesignicons&logoColor=white" alt="materialui" />
-		<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="reactrouter" />
-		<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
-		<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-		<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+		<img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="reactrouter" />
+		<img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="jquery" />
+		<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+		<img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="expressjs" />
 	</p>
 </details>
 <br/>
@@ -106,13 +107,15 @@
 	<summary><b>👉 Databases & Cloud Hosting</b></summary>
 	<br/>
 	<p align="left"> 
-		<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-		<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-		<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
-		<img src="https://img.shields.io/badge/Render-34f9c3?style=for-the-badge&logo=render&logoColor=white" alt="render" />
-		<img src="https://img.shields.io/badge/Railway-13111c?style=for-the-badge&logo=railway&logoColor=white" alt="railway" />
-		<img src="https://img.shields.io/badge/Netlify-23bdae?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
-		<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+		<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql" />
+		<img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb" />
+		<img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white" alt="heroku" />
+		<img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white" alt="render" />
+		<img src="https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=Railway&logoColor=white" alt="railway" />
+		<img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" alt="netlify" />
+		<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="github" />
+		<img src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" alt="supabase" />
+		<img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="firebase" />
 	</p>
 </details>
 <br/>
@@ -120,10 +123,10 @@
 	<summary><b>👉 Tools</b></summary>
 	<br/>
 	<p align="left"> 
-		<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode" />
-		<img src="https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-		<img src="https://img.shields.io/badge/Figma-0acf83?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
-		<img src="https://img.shields.io/badge/Excel-1a7645?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="excel" />
+		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="vscode" />
+		<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="git" />
+		<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="figma" />
+		<img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" alt="excel" />
 	</p>
 </details>
 <br/>
