@@ -21,7 +21,7 @@
 	<summary><b>👱‍♂️ Intro</b></summary>
 	<br/>
 	<p>
-		<img align="right" src="programmer.svg" alt="programmer" width="25%">
+		<img align="right" src="./programmer.svg" alt="programmer" width="25%">
 		<p align="left">
 			<p>🏫 &nbsp;Pursuing my BE In Information Technology From GTU.</p>
 			<p>💙 &nbsp;I'm an Enthusiastic, Self-Motivated, Reliable, Responsible & Hard Working Person.</p>
@@ -37,7 +37,7 @@
 	<summary><b>💻 Experience </b></summary>
 	<br/>
 	<p>
-		<img align="right" src="work.svg" alt="work" width="25%">
+		<img align="right" src="./work.svg" alt="work" width="25%">
 		<p align="left">
 			<!-- <p>🏢 &nbsp;Full Stack Web Developer At <a href="https://www.infopercept.com">Infopercept Consulting</a> &nbsp;&nbsp;<i>(Apr 2021 - Present)</i></p> -->
 			<p>🏢 &nbsp;Backend Developer Intern At <a href="https://akashtechnolabs.com/">Akash Technolabs</a> &nbsp;&nbsp;<i>(Jun 2022 - Jul 2022)</i></p>
@@ -50,7 +50,7 @@
 	<summary><b>⚡ Current State </b></summary>
 	<br/>
 	<p>
-		<img align="right" src="learning.svg" alt="learning" width="25%">
+		<img align="right" src="./learning.svg" alt="learning" width="25%">
 		<p align="left">
 			<p>📗 &nbsp;I am Currently Learning Next.js</p>
 			<p>🚧 &nbsp;I am Currently Working on <a href="https://patel-jay.netlify.app">Portfolio Website</a>.</p>
