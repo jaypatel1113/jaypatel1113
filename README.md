@@ -7,7 +7,7 @@
 </p>
 
 <!-- <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=jaypatel3382&label=Profile_views&color=EF2D5E&style=for-the-badge" alt="jaypatel3382" /> 
+	<img src="https://komarev.com/ghpvc/?username=jaypatel1113&label=Profile_views&color=EF2D5E&style=for-the-badge" alt="jaypatel1113" /> 
 </p> -->
 
 <p align="center">
@@ -137,17 +137,17 @@
 	<summary><b>💻 GitHub Profile Stats</b></summary>
 	<br/>
 	<p>
-		<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaypatel3382&show_icons=true&locale=en&theme=dracula" alt="jaypatel3382" width="500em"/></p>
-		<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypatel3382&show_icons=true&locale=en&layout=donut&theme=dracula" alt="jaypatel3382" width="500em"/></p>
-		<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatel3382&theme=dracula" alt="jaypatel31" width="500em" /></p>
+		<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaypatel1113&show_icons=true&locale=en&theme=dracula" alt="jaypatel1113" width="500em"/></p>
+		<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypatel1113&show_icons=true&locale=en&layout=donut&theme=dracula" alt="jaypatel1113" width="500em"/></p>
+		<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatel1113&theme=dracula" alt="jaypatel31" width="500em" /></p>
 	</p>
 </details>
 <br/>
 <details>
 	<summary><b>⚡ Recent GitHub Activity</b></summary>
 	<br/>
-	<a href="https://github.com/jaypatel3382">
-		<img alt="Jay's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jaypatel3382&custom_title=Jay%20Patel%27s%20Contribution%20Graph&theme=xcode&bg_color=282a36&line=ff6e96&color=fff&point=79dafa&radius=10" />
+	<a href="https://github.com/jaypatel1113">
+		<img alt="Jay's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jaypatel1113&custom_title=Jay%20Patel%27s%20Contribution%20Graph&theme=xcode&bg_color=282a36&line=ff6e96&color=fff&point=79dafa&radius=10" />
 	</a>
 	<br/>
 </details>
@@ -160,7 +160,7 @@
     <a href="https://www.linkedin.com/in/jaypatel1122/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="mailto:jay64441860@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
     <a href="https://api.whatsapp.com/send?phone=919328473489&text=Heyy Jay!%20got%20reference%20from%20GITHUB😁"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
-    <a href="https://github.com/jaypatel3382"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+    <a href="https://github.com/jaypatel1113"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
     <a href="https://www.instagram.com/__jay.xi/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
     <a href="https://facebook.com/jay.patel.112/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-circled.png" alt="Facebook"/></a>
     <a href="https://twitter.com/jaypatel_1510/"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
