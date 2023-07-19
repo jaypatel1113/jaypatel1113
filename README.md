@@ -21,7 +21,7 @@
 	<summary><b>👱‍♂️ Intro</b></summary>
 	<br/>
 	<p>
-		<img align="right" src="programmer.svg" alt="programmer" width="25%">
+		<img align="right" src="https://github.com/jaypatel1113/jaypatel1113/blob/master/programmer.svg" alt="programmer" width="25%">
 		<p align="left">
 			<p>🏫 &nbsp;Complete BE In Information Technology From GTU.</p>
 			<p>💙 &nbsp;I'm an Enthusiastic, Self-Motivated, Reliable, Responsible & Hard Working Person.</p>
@@ -51,7 +51,7 @@
 	<summary><b>⚡ Current State </b></summary>
 	<br/>
 	<p>
-		<img align="right" src="learning.svg" alt="learning" width="25%">
+		<img align="right" src="https://github.com/jaypatel1113/jaypatel1113/blob/master/learning.svg" alt="learning" width="25%">
 		<p align="left">
 			<p>📗 &nbsp;I am Currently Learning Next.js</p>
 			<p>🚧 &nbsp;I am Currently Working on <a href="https://patel-jay.netlify.app">Portfolio Website</a>.</p>
