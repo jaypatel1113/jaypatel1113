@@ -53,7 +53,7 @@
 	<p>
 		<img align="right" src="https://github.com/jaypatel1113/jaypatel1113/blob/master/learning.svg" alt="learning" width="25%">
 		<p align="left">
-			<p>📗 &nbsp;I am Currently Learning Next.js</p>
+			<p>📗 &nbsp;I am Currently Learning Next.js & Typescript</p>
 			<p>🚧 &nbsp;I am Currently Working on <a href="https://patel-jay.netlify.app">Portfolio Website</a>.</p>
 			<p>💬 &nbsp;Feel free to Reach out to me for any Tech Related Stuffs.</p>
 		</p>
@@ -91,6 +91,7 @@
 	<p align="left"> 
 		<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react" />
 		<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
+		<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="typescript" />
 		<img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="markdown" />
 		<img src="https://img.shields.io/badge/AngularJS-E23237.svg?style=for-the-badge&logo=AngularJS&logoColor=white" alt="angularjs" />
 		<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="tailwindcss" />
@@ -161,10 +162,10 @@
     <a href="https://www.linkedin.com/in/jaypatel1122/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="mailto:jay64441860@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
     <a href="https://api.whatsapp.com/send?phone=919328473489&text=Heyy Jay!%20got%20reference%20from%20GITHUB😁"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
-    <a href="https://github.com/jaypatel1113"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-    <a href="https://www.instagram.com/__jay.xi/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-    <a href="https://facebook.com/jay.patel.112/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-circled.png" alt="Facebook"/></a>
-    <a href="https://twitter.com/jaypatel_1510/"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
+<!--     <a href="https://github.com/jaypatel1113"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a> -->
+<!--     <a href="https://www.instagram.com/__jay.xi/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
+<!--     <a href="https://facebook.com/jay.patel.112/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-circled.png" alt="Facebook"/></a> -->
+<!--     <a href="https://twitter.com/jaypatel_1510/"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a> -->
 </p>
 <hr/>
 <p align="center"><b>Though you have came this far, Checkout my Repos ⬇️ & give it a Star ⭐ or Fork it 🎗️</b></p>
