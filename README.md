@@ -147,6 +147,8 @@
 		<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaypatel1113&show_icons=true&locale=en&theme=dracula" alt="jaypatel1113" width="500em"/></p>
 		<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypatel1113&show_icons=true&locale=en&layout=donut&theme=dracula" alt="jaypatel1113" width="500em"/></p>
 		<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatel1113&theme=dracula" alt="jaypatel31" width="500em" /></p>
+<!-- 		https://github-readme-streak-stats.herokuapp.com/?user=jaypatel1113&theme=dracula -->
+<!-- 		https://streak-stats.demolab.com/?user=jaypatel1113&theme=dracula -->
 	</p>
 </details>
 <br/>
