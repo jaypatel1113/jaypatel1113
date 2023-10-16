@@ -54,7 +54,7 @@
 		<img align="right" src="https://github.com/jaypatel1113/jaypatel1113/blob/master/learning.svg" alt="learning" width="25%">
 		<p align="left">
 			<p>📗 &nbsp;I am Currently Learning Next.js & Typescript</p>
-			<p>🚧 &nbsp;I am Currently Working on <a href="https://patel-jay.netlify.app">Portfolio Website</a>.</p>
+			<p>🚧 &nbsp;I am Currently Working on <a href="https://patel-jay.vercel.app">Portfolio Website</a>.</p>
 			<p>💬 &nbsp;Feel free to Reach out to me for any Tech Related Stuffs.</p>
 		</p>
 	</p>
@@ -165,7 +165,7 @@
 ## 🔗 Let's Connect
 
 <p align="center">
-    <a target="_blank" href="https://patel-jay.netlify.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+    <a target="_blank" href="https://patel-jay.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
     <a href="https://www.linkedin.com/in/jaypatel1122/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="mailto:jay64441860@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
     <a href="https://api.whatsapp.com/send?phone=919328473489&text=Heyy Jay!%20got%20reference%20from%20GITHUB😁"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
