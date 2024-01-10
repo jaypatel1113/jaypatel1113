@@ -15,13 +15,13 @@
 </p>
 <hr/>
 
-## ℹ️ About Me
+## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="25"> About Me
 
 <details> 
 	<summary><b>👱‍♂️ Intro</b></summary>
 	<br/>
 	<p>
-		<img align="right" src="https://github.com/jaypatel1113/jaypatel1113/blob/master/programmer.svg" alt="programmer" width="25%">
+		<img src="https://github.com/jaypatel1113/jaypatel1113/blob/master/programmer.svg" alt="programmer" width="25%">
 		<p align="left">
 			<p>🏫 &nbsp;Complete BE In Information Technology From GTU.</p>
 			<p>💙 &nbsp;I'm an Enthusiastic, Self-Motivated, Reliable, Responsible & Hard Working Person.</p>
@@ -61,7 +61,7 @@
 	</details>
 <br/>
 
-## 🛠️ My Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills
 
 <details> 
 	<summary><b>👉 Frontend Development</b></summary>
@@ -138,7 +138,7 @@
 </details>
 <br/>
 
-## 📊 Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats
 
 <details> 
 	<summary><b>💻 GitHub Profile Stats</b></summary>
@@ -162,7 +162,7 @@
 </details>
 <br/>
 
-## 🔗 Let's Connect
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"> Let's Connect
 
 <p align="center">
     <a target="_blank" href="https://patel-jay.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
