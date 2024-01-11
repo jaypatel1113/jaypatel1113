@@ -93,7 +93,7 @@
 	<br/>
 	<p align="left"> 
 		<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react" />
-		<img src="https://img.shields.io/badge/React-0088CC.svg?style=for-the-badge&logo=React-Native&logoColor=black" alt="react native" />
+		<img src="https://img.shields.io/badge/React_Native-0088CC.svg?style=for-the-badge&logo=React&logoColor=white" alt="react native" />
 		<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
 		<img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="markdown" />
 		<img src="https://img.shields.io/badge/AngularJS-E23237.svg?style=for-the-badge&logo=AngularJS&logoColor=white" alt="angularjs" />
