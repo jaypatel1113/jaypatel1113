@@ -21,7 +21,7 @@
 	<summary><b>👱‍♂️ Intro</b></summary>
 	<br/>
 	<p>
-		<img src="https://github.com/jaypatel1113/jaypatel1113/blob/master/programmer.svg" alt="programmer" width="25%">
+		<img align="right" src="https://github.com/jaypatel1113/jaypatel1113/blob/master/programmer.svg" alt="programmer" width="25%">
 		<p align="left">
 			<p>🏫 &nbsp;Complete BE In Information Technology From GTU.</p>
 			<p>💙 &nbsp;I'm an Enthusiastic, Self-Motivated, Reliable, Responsible & Hard Working Person.</p>
@@ -70,6 +70,7 @@
 		<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html" />
 		<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css" />
 		<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript" />
+		<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="typescript" />
 		<img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white" alt="json" />
 	</p>
 </details>
@@ -81,6 +82,7 @@
 		<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" alt="C" />
 		<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="php" />
 		<img src="https://img.shields.io/badge/Java-56347C?style=for-the-badge&logo=coffeescript&logoColor=white" alt="java"/>
+		<img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" alt="c++"/>
 		<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="python"/>
 		<img src="https://img.shields.io/badge/Data_Structures_&_Algorithm-009ad3?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="dsa"/>
 	</p>
@@ -91,8 +93,8 @@
 	<br/>
 	<p align="left"> 
 		<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react" />
+		<img src="https://img.shields.io/badge/React-0088CC.svg?style=for-the-badge&logo=React-Native&logoColor=black" alt="react native" />
 		<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
-		<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="typescript" />
 		<img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="markdown" />
 		<img src="https://img.shields.io/badge/AngularJS-E23237.svg?style=for-the-badge&logo=AngularJS&logoColor=white" alt="angularjs" />
 		<img src="https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white" alt="socketio" />
@@ -146,7 +148,7 @@
 	<p>
 		<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaypatel1113&show_icons=true&locale=en&theme=dracula" alt="jaypatel1113" width="500em"/></p>
 		<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypatel1113&show_icons=true&locale=en&layout=donut&theme=dracula" alt="jaypatel1113" width="500em"/></p>
-		<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatel1113&theme=dracula" alt="jaypatel31" width="500em" /></p>
+		<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatel1113&theme=dracula" alt="jaypatel1113" width="500em" /></p>
 <!-- 		https://github-readme-streak-stats.herokuapp.com/?user=jaypatel1113&theme=dracula -->
 <!-- 		https://streak-stats.demolab.com/?user=jaypatel1113&theme=dracula -->
 	</p>
