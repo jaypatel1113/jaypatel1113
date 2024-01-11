@@ -42,6 +42,7 @@
 			<!-- <p>🏢 &nbsp;Full Stack Web Developer At <a href="https://www.infopercept.com">Infopercept Consulting</a> &nbsp;&nbsp;<i>(Apr 2021 - Present)</i></p> -->
 			<p>🏢 &nbsp;Backend Developer Intern At <a href="https://akashtechnolabs.com/">Akash Technolabs</a> &nbsp;&nbsp;<i>(Jun 2022 - Jul 2022)</i></p>
 			<p>🏢 &nbsp;ReactJS Developer Intern At <a href="http://www.techelecon.com/">Tech Elecon</a> &nbsp;&nbsp;<i>(Jan 2023 - Apr 2023)</i></p>
+			<p>🏢 &nbsp;Full Stack Developer Developer As Freelancer &nbsp;&nbsp;<i>(Jan 2023 - Present)</i></p>
 			<p>🏢 &nbsp;Full Stack Developer Developer At <a href="http://www.nucast.io/">Nucast</a> &nbsp;&nbsp;<i>(Jun 2023 - Present)</i></p>
 		</p>
 	</p>
@@ -82,7 +83,7 @@
 		<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" alt="C" />
 		<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="php" />
 		<img src="https://img.shields.io/badge/Java-56347C?style=for-the-badge&logo=coffeescript&logoColor=white" alt="java"/>
-		<img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" alt="c++"/>
+		<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>
 		<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="python"/>
 		<img src="https://img.shields.io/badge/Data_Structures_&_Algorithm-009ad3?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="dsa"/>
 	</p>
