@@ -41,9 +41,10 @@
 		<p align="left">
 			<!-- <p>🏢 &nbsp;Full Stack Web Developer At <a href="https://www.infopercept.com">Infopercept Consulting</a> &nbsp;&nbsp;<i>(Apr 2021 - Present)</i></p> -->
 			<p>🏢 &nbsp;Backend Developer Intern At <a href="https://akashtechnolabs.com/">Akash Technolabs</a> &nbsp;&nbsp;<i>(Jun 2022 - Jul 2022)</i></p>
+			<p>🏢 &nbsp;Full Stack Developer At <a href="https://coastalcorp.co.in/">Coastal Corporation</a> &nbsp;&nbsp;<i>(Jan 2020 - Jan 2023)</i></p>
 			<p>🏢 &nbsp;ReactJS Developer Intern At <a href="http://www.techelecon.com/">Tech Elecon</a> &nbsp;&nbsp;<i>(Jan 2023 - Apr 2023)</i></p>
 			<p>🏢 &nbsp;Full Stack Developer Developer As Freelancer &nbsp;&nbsp;<i>(Jan 2023 - Present)</i></p>
-			<p>🏢 &nbsp;Full Stack Developer Developer At <a href="http://www.nucast.io/">Nucast</a> &nbsp;&nbsp;<i>(Jun 2023 - Present)</i></p>
+			<p>🏢 &nbsp;Full Stack Developer Developer At <a href="http://www.nucast.io/">Nucast</a> &nbsp;&nbsp;<i>(Feb 2023 - Present)</i></p>
 		</p>
 	</p>
 </details>
