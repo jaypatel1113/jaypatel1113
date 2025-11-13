@@ -1,185 +1,161 @@
 <h1 align="center">
-    Hey , I'm Jay Patel 
+    Hey, I'm Jay Patel 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-<p align="center">
-  	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=EF2D5E&size=24&center=true&vCenter=true&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Next.js+Developer;React.js+Developer;%3CLovesToCodeMore+%2F%3E;Ready+For+The+Challenges"></a>
-</p>
 
-<!-- <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=jaypatel1113&label=Profile_views&color=EF2D5E&style=for-the-badge" alt="jaypatel1113" /> 
+<!-- <p align="center">
+  	<a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&color=EF2D5E&size=24&center=true&vCenter=true&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Next.js+%26+React+Specialist;Building+Scalable+Applications;%3CLovesToCodeMore+%2F%3E;Ready+For+New+Challenges" alt="Typing Animation">
+    </a>
 </p> -->
 
 <p align="center">
-	<b>🌟 Unfold My Jorney 🌟 </b>
+  <img src="https://img.shields.io/github/followers/jaypatel1113?style=for-the-badge&color=0e75b6&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/jaypatel1113?style=for-the-badge&color=yellow&logo=github" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=jaypatel1113&style=for-the-badge&color=ff007f" alt="profile views" />
 </p>
-<hr/>
 
-## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="25"> About Me
+<!-- <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" align="center"> About Me</h2>
 
-<details> 
-	<summary><b>👱‍♂️ Intro</b></summary>
-	<br/>
-	<p>
-		<img align="right" src="https://github.com/jaypatel1113/jaypatel1113/blob/master/programmer.svg" alt="programmer" width="25%">
-		<p align="left">
-			<p>🏫 &nbsp;Complete BE In Information Technology From GTU.</p>
-			<p>💙 &nbsp;I'm an Enthusiastic, Self-Motivated, Reliable, Responsible & Hard Working Person.</p>
-			<p>✨ &nbsp;I use a creative approach to solve the problem</p>
-			<p>📘 &nbsp;Always Motivated to go to Gym to stay Fit & Healthy.</p>
-			<p>🥇 &nbsp;while ( ! ( succeed = try ( ) ) ) ;</p>
-			<p>🎮 &nbsp;Like to Play Video Games in My Free Time.</p>
-		</p>
-	</p>
-</details>
-<br/>
-<details> 
-	<summary><b>💻 Experience </b></summary>
-	<br/>
-	<p>
-		<img align="right" src="work.svg" alt="work" width="25%">
-		<p align="left">
-			<!-- <p>🏢 &nbsp;Full Stack Web Developer At <a href="https://www.infopercept.com">Infopercept Consulting</a> &nbsp;&nbsp;<i>(Apr 2021 - Present)</i></p> -->
-			<p>🏢 &nbsp;Backend Developer Intern At <a href="https://akashtechnolabs.com/">Akash Technolabs</a> &nbsp;&nbsp;<i>(Jun 2022 - Jul 2022)</i></p>
-			<p>🏢 &nbsp;Full Stack Developer At <a href="https://coastalcorp.co.in/">Coastal Corporation</a> &nbsp;&nbsp;<i>(Jan 2020 - Jan 2023)</i></p>
-			<p>🏢 &nbsp;ReactJS Developer Intern At <a href="http://www.techelecon.com/">Tech Elecon</a> &nbsp;&nbsp;<i>(Jan 2023 - Apr 2023)</i></p>
-			<p>🏢 &nbsp;Full Stack Developer Developer As Freelancer &nbsp;&nbsp;<i>(Jan 2023 - Present)</i></p>
-			<p>🏢 &nbsp;Full Stack Developer Developer At <a href="http://www.nucast.io/">Nucast</a> &nbsp;&nbsp;<i>(Feb 2023 - Present)</i></p>
-		</p>
-	</p>
-</details>
-<br/>
-<details> 
-	<summary><b>⚡ Current State </b></summary>
-	<br/>
-	<p>
-		<img align="right" src="https://github.com/jaypatel1113/jaypatel1113/blob/master/learning.svg" alt="learning" width="25%">
-		<p align="left">
-			<p>📗 &nbsp;I am Currently Learning Next.js & Typescript</p>
-			<p>🚧 &nbsp;I am Currently Working on <a href="https://patel-jay.vercel.app">Portfolio Website</a>.</p>
-			<p>💬 &nbsp;Feel free to Reach out to me for any Tech Related Stuffs.</p>
-		</p>
-	</p>
-	</details>
-<br/>
+🎓 **BE in Information Technology** from GTU  
+💼 **Full Stack Developer** specializing in MERN Stack & Next.js  
+🚀 **Passionate** about building scalable, user-centric applications  
+✨ **Creative Problem Solver** with a focus on clean, efficient code  
+💪 **Fitness Enthusiast** - Regular gym-goer staying fit & healthy  
+🎮 **Gamer** in free time - Balance is key!  
+📚 **Currently Learning**: Advanced Next.js patterns & TypeScript best practices  
+💡 **Philosophy**: `while (!succeed) { try(); }` -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> My Skills
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> Professional Experience</h2>
 
-<details> 
-	<summary><b>👉 Frontend Development</b></summary>
-	<br/>
-	<p align="left">
-		<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="html" />
-		<img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="css" />
-		<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="javascript" />
-		<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="typescript" />
-		<img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white" alt="json" />
-	</p>
-</details>
-<br/>
-<details> 
-	<summary><b>👉 Programming languages</b></summary>
-	<br/>
-	<p align="left"> 
-		<img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" alt="C" />
-		<img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" alt="php" />
-		<img src="https://img.shields.io/badge/Java-56347C?style=for-the-badge&logo=coffeescript&logoColor=white" alt="java"/>
-		<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/>
-		<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="python"/>
-		<img src="https://img.shields.io/badge/Data_Structures_&_Algorithm-009ad3?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="dsa"/>
-	</p>
-</details>
-<br/>
-<details> 
-	<summary><b>👉 Frameworks</b></summary>
-	<br/>
-	<p align="left"> 
-		<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react" />
-		<img src="https://img.shields.io/badge/React_Native-0088CC.svg?style=for-the-badge&logo=React&logoColor=white" alt="react native" />
-		<img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
-		<img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white" alt="markdown" />
-		<img src="https://img.shields.io/badge/AngularJS-E23237.svg?style=for-the-badge&logo=AngularJS&logoColor=white" alt="angularjs" />
-		<img src="https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white" alt="socketio" />
-		<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="tailwindcss" />
-		<img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="sass" />
-		<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="bootstrap" />
-		<img src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" alt="materialui" />
-		<img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="reactrouter" />
-		<img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="redux" />
-		<img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white" alt="jquery" />
-		<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-		<img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="expressjs" />
-	</p>
-</details>
-<br/>
-<details> 
-	<summary><b>👉 Databases & Cloud Hosting</b></summary>
-	<br/>
-	<p align="left"> 
-		<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql" />
-		<img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb" />
-		<img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white" alt="heroku" />
-		<img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white" alt="render" />
-		<img src="https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=Railway&logoColor=white" alt="railway" />
-		<img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white" alt="netlify" />
-		<img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="vercel" />
-		<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="github" />
-		<img src="https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" alt="supabase" />
-		<img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="firebase" />
-	</p>
-</details>
-<br/>
-<details> 
-	<summary><b>👉 Tools</b></summary>
-	<br/>
-	<p align="left"> 
-		<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" alt="vscode" />
-		<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="git" />
-		<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-		<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" alt="figma" />
-		<img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" alt="excel" />
-	</p>
-</details>
-<br/>
+**Software Engineer (SDE)** @ [Nucast](http://www.nucast.io/) • *Feb 2023 - Present*
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats
+**Full Stack Developer** • Freelancer • *May 2023 - Jul 2024*
 
-<details> 
-	<summary><b>💻 GitHub Profile Stats</b></summary>
-	<br/>
-	<p>
-		<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jaypatel1113&show_icons=true&locale=en&theme=dracula" alt="jaypatel1113" width="500em"/></p>
-		<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaypatel1113&show_icons=true&locale=en&layout=donut&theme=dracula" alt="jaypatel1113" width="500em"/></p>
-		<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatel1113&theme=dracula" alt="jaypatel1113" width="500em" /></p>
-<!-- 		https://github-readme-streak-stats.herokuapp.com/?user=jaypatel1113&theme=dracula -->
-<!-- 		https://streak-stats.demolab.com/?user=jaypatel1113&theme=dracula -->
-	</p>
-</details>
-<br/>
-<details>
-	<summary><b>⚡ Recent GitHub Activity</b></summary>
-	<br/>
-	<a href="https://github.com/jaypatel1113">
-		<img alt="Jay's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jaypatel1113&custom_title=Jay%20Patel%27s%20Contribution%20Graph&theme=xcode&bg_color=282a36&line=ff6e96&color=fff&point=79dafa&radius=10" />
-	</a>
-	<br/>
-</details>
-<br/>
+**Frontend Developer Intern** @ [Tech Elecon Pvt. Ltd.](http://www.techelecon.com/) • *Jan 2023 - Apr 2023*
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"> Let's Connect
+**Full Stack Developer** @ [Coastal Corporation Ltd.](https://coastalcorp.co.in/) • *Jan 2020 - Jan 2023*
+
+**Backend Developer Intern** @ [Akash Technolabs](https://akashtechnolabs.com/) • *Jun 2022 - Jul 2022*
+
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" align="center"> Tech Stack</h2>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" alt="Programming Languages" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,scss,redux,tailwind,bootstrap,materialui,angular,jquery" alt="Frontend Skills" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend Skills" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,supabase,prisma,postgres,redis" alt="Databases" />
+</p>
+
+### ☁️ Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,heroku" alt="Cloud Platforms" />
+</p>
+
+### 🔧 DevOps & CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,nginx" alt="DevOps Tools" />
+</p>
+
+### 🛠️ Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Development Tools" />
+</p>
+
+### 🔌 API & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql,kafka" alt="API & Messaging" />
+</p>
+
+### 🖥️ Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" alt="Operating Systems" />
+</p>
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI & Machine Learning" />
+</p>
+
+**AI/ML Technologies:**
+- OpenAI
+- Machine Learning
+- Deep Learning
+- AI Agents
+- CrewAI
+- MCP Servers
+
+### 🎓 Computer Science Core
+**Fundamentals:**
+- Operating Systems
+- Computer Networks
+- Data Structures & Algorithms
+- OOPs (Object-Oriented Programming)
+- DBMS (Database Management Systems)
+
+**Additional Expertise:**
+- Socket.IO for Real-time Communication
+- React Native for Mobile Development
+- REST APIs & Microservices Architecture
+- Databricks for Data Engineering
+
+<h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" align="center"> GitHub Achievements</h2>
 
 <p align="center">
-    <a target="_blank" href="https://patel-jay.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-    <a href="https://www.linkedin.com/in/jaypatel1122/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-    <a href="mailto:jay64441860@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-    <a href="https://api.whatsapp.com/send?phone=919328473489&text=Heyy Jay!%20got%20reference%20from%20GITHUB😁"><img src="https://img.icons8.com/bubbles/50/000000/whatsapp.png" alt="Whatsapp"/></a>
-<!--     <a href="https://github.com/jaypatel1113"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a> -->
-<!--     <a href="https://www.instagram.com/__jay.xi/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a> -->
-<!--     <a href="https://facebook.com/jay.patel.112/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-circled.png" alt="Facebook"/></a> -->
-<!--     <a href="https://twitter.com/jaypatel_1510/"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=jaypatel1113&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </p>
-<hr/>
-<p align="center"><b>Though you have came this far, Checkout my Repos ⬇️ & give it a Star ⭐ or Fork it 🎗️</b></p>
 
-<!-- [Jay_Patel](https://github.com/jaypatel31/jaypatel31/blob/master/bottom_header.svg) -->
-<br>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" align="center"> GitHub Statistics</h2>
+
+<p align="center">
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jaypatel1113&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" /> -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatel1113&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypatel1113&theme=dracula&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+
+<h2><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" align="center"> Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaypatel1113&custom_title=Jay%20Patel's%20Contribution%20Graph&theme=dracula&hide_border=true&bg_color=282a36&line=ff6e96&color=fff&point=79dafa" alt="Contribution Graph" />
+</p>
+
+<h2><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" align="center"> Current Focus</h2>
+
+```javascript
+const jay = {
+    location: "Edmonton, Alberta, Canada",
+    currentRole: "Software Engineer (SDE) @ Nucast",
+    learning: ["Advanced Next.js", "TypeScript", "System Design", "AI/ML Integration"],
+    expertise: ["MERN Stack", "React.js", "Next.js", "Tailwind CSS", "Full Stack Development"],
+    askMeAbout: ["Web Dev", "MERN Stack", "Next.js", "React Native", "AI Integration"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" align="center"> Let's Connect</h2>
+
+<p align="left">
+    <a href="https://patel-jay.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/jaypatel1122/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="/cdn-cgi/l/email-protection#2248435b14161616131a141262454f434b4e0c414d4f">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=919328473489&text=Hey Jay! Got your reference from GitHub 😊" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logo
